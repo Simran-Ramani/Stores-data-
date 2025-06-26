@@ -31,8 +31,10 @@ Description: You'll get data of different stores of a supermarket company as per
 Import the dataset into SQL Server.
 
 Run the SQL script (data_cleaning.sql) to prepare the data.
+(https://github.com/Simran-Ramani/Stores-data-/blob/main/Stores%20data.sql)
 
-Open the Power BI file (https://github.com/Simran-Ramani/Stores-data-/blob/main/Stores%20data%20of%20a%20supermarket%20company.pbix) 
+Open the Power BI file
+(https://github.com/Simran-Ramani/Stores-data-/blob/main/Stores%20data%20of%20a%20supermarket%20company.pbix) 
 
 Refresh the data source connection to your SQL Server database.
 
