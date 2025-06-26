@@ -11,23 +11,35 @@ Checked for sales distribution along the stores.
 Built an interactive Power BI dashboard with filters for store id.
 
 ## Technologies Used ##
+
 Microsoft SQL Server
+
 Power BI Desktop
+
 Excel (used briefly for formatting raw data)
 
 ## Dataset ##
+
 Name: Supermarket store branches sales analysis
+
 Source: Kaggle Dataset
+
 Description: You'll get data of different stores of a supermarket company as per their store IDs which for ease has been converted to positive integers. The dataset is a collection of Store id, Store area, Items available, Daily customer count and store sales. 
 
 ## How to Use ##
+
 Import the dataset into SQL Server.
+
 Run the SQL script (data_cleaning.sql) to prepare the data.
+
 Open the Power BI file (OnlineRetailDashboard.pbix).
+
 Refresh the data source connection to your SQL Server database.
+
 Explore the dashboard using slicers and filters!
 
 ## Power BI Dashboard 
+
 <img width="589" alt="image" src="https://github.com/user-attachments/assets/9e8fa64a-0c80-448c-be22-8b1edbbdab3b" />
 
 
