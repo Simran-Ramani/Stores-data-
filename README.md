@@ -3,8 +3,11 @@ This project analyzes a supermarket company stores data to uncover sales, custom
 
 ## Features ##
 Extracted and checkecd for data profiling, quality using SQL.
+
 Created key metrics: sales per sq ft, sales per item available and sales per customer.
+
 Checked for sales distribution along the stores.
+
 Built an interactive Power BI dashboard with filters for store id.
 
 ## Technologies Used ##
