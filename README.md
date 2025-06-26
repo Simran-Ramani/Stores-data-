@@ -45,3 +45,7 @@ Explore the dashboard using slicers and filters!
 <img width="589" alt="image" src="https://github.com/user-attachments/assets/9e8fa64a-0c80-448c-be22-8b1edbbdab3b" />
 
 
+If you have questions or feedback, feel free to reach out via https://www.linkedin.com/in/simran-ramani-486133174/.
+
+
+
